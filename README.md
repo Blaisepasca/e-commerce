@@ -1,5 +1,8 @@
 # E-commerce project
 
+# Overview
+This is an e-commerce which helps to order foods online by just using internet
+
 ## Project setup
 ```
 npm install
